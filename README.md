@@ -2,6 +2,9 @@
 GPSDO with Pico
 Note：This work is mainly done by Phil Harman (VK6PH). Appreciate him to grant us the permission to release this work to public
 
+20250823：
+Re-upload the new source code, GPSDO_V1.0_20250823.zip is the latest
+
 Features
 User Experience: Simple and ease of use UI with a small LCD screen and an encoder.
 TCXO Output: A stable reference clock available as either a square wave or a sine wave.
