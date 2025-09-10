@@ -2,8 +2,6 @@
 GPSDO with Pico
 Note：This work is mainly done by Phil Harman (VK6PH). Appreciate him to grant us the permission to release this work to public
 
-20250823：
-Re-upload the new source code, GPSDO_V1.0_20250823.zip is the latest
 20250910:
 BOM Changes
 1. Cell G34 has "LT1963AEQ-1.8#PBF" corrected to LT1963A-adj.
@@ -12,6 +10,11 @@ Add C6 capacitor silk screen to PCB
 Added iBOM, which allows you to directly view the original part location by opening it through a browser "InteractiveBOM_gpsdo-phil_2025-9-10.html"
 The PCB can use a shell with the specification of "aluminum alloy shell 71*25*100", which can be obtained from JLC or found from other places.
 https://www.jlcfa.com/item/1394900402293.html
+
+20250823：
+Re-upload the new source code, GPSDO_V1.0_20250823.zip is the latest
+
+
 
 Features
 User Experience: Simple and ease of use UI with a small LCD screen and an encoder.
