@@ -25,6 +25,10 @@ For ease of production, we have redesigned the PCB. The PCB can be produced by P
 
  ![image](https://github.com/RaspSDR/gpsdo/blob/main/3D_gpsdo-phil_2025-07-16.png)
 
+ 
+By the way, there are a few good open-source projects on the rx-888 website. It also includes open-source information for gpsdo.
+https://www.rx-888.com/rx/opensource.html
+
 
 
 
